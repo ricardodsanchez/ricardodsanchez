@@ -1,11 +1,36 @@
 ### Hola 👋
+
 ![channels4_banner](https://github.com/ricardodsanchez/ricardodsanchez/assets/395216/05b2151c-2ad5-46a1-8794-c746997ced17)
-***
-:computer: I’m Ricardo Sánchez
 
-:pencil2: Besides coding, I enjoy writing, you can find my blog here: https://rcrdo.com/
+> Developer by trade, writer and photographer by passion.
+> I build things on the web and tell stories the rest of the time.
 
-:camera: Also enjoy taking photos: https://instagram.com/ricardodsanchez
+---
 
-:mailbox: How to reach me: https://rcrdo.com/contact/
+### 🚀 What I'm building
 
+- **[PuraLetra.com](https://puraletra.com/)** — *Clean, distraction-free reading with no ads or trackers. Save anything, highlight it, listen, and keep it forever.*
+
+### 🧰 A little about me
+
+```text
+const ricardo = {
+  code:    "I ship things for the web",
+  writing: "https://rcrdo.com/",
+  photos:  "https://instagram.com/ricardodsanchez",
+  motto:   "Build, write, capture, repeat.",
+};
+```
+
+### 📫 Where to find me
+
+| | |
+|---|---|
+| ✍️  Blog        | [rcrdo.com](https://rcrdo.com/) |
+| 📷  Photography | [@ricardodsanchez](https://instagram.com/ricardodsanchez) |
+| 📬  Contact     | [rcrdo.com/contact](https://rcrdo.com/contact/) |
+| 🅿️  Project     | [PuraLetra.com](https://puraletra.com/) |
+
+---
+
+<sub>⭐️ Thanks for stopping by — feel free to check out my repos and projects.</sub>
