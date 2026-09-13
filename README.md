@@ -10,6 +10,7 @@
 ### 🚀 What I'm building
 
 - **[PuraLetra.com](https://puraletra.com/)** — *Clean, distraction-free reading with no ads or trackers. Save anything, highlight it, listen, and keep it forever.*
+- **[RollScrub.com](https://rollscrub.com/)** — *RollScrub finds duplicate photos and videos across every folder and drive you point it at, and compares every single byte before it calls two files the same. You see each pair side by side. Nothing moves until you say so.*
 
 ### 🧰 A little about me
 
